@@ -1,5 +1,14 @@
 # Data-Problems-vs-Data-Solutions
 
+## Uber airport case study
+
+https://www.youtube.com/watch?v=O76A0FIFdqs&ab_channel=upGrad
+
+
+## What is the business problem
+
+The cancellations of airport trips by drivers increases. A trip to the airport takes longer for drivers due to traffic. Most passengers would cancel a trip request before the driver arrives. This has caUsed a decrease in supply of lifts at the airports.
+
 
 ## How was it translated into a data mining problem?
 
